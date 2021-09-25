@@ -5,6 +5,8 @@ import "./Shop.css"
 
 const Shop = () => {
     const [cart, setCart] = useState([]);
+
+    // Add judge
     const handleAddJudges = (person) => {
         const newCart = [...cart, person];
         setCart(newCart);
@@ -25,12 +27,10 @@ const Shop = () => {
                             persons.map(person =>
                                 < Person
                                     person={person}
+                                    key={person.id}
                                     handleAddJudges={handleAddJudges}
                                 ></Person>
-
-                            )
-
-                        }
+                            )}
                     </div>
                 </div>
 
