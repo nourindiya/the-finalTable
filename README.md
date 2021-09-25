@@ -1,6 +1,5 @@
 # Final Table
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://brave-volhard-c72e61.netlify.app/
 
 ## Available Scripts
 
