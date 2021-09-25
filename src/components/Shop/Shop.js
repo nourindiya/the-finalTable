@@ -5,8 +5,8 @@ import Person from '../Person/Person';
 import "./Shop.css"
 
 const Shop = () => {
-    const [cart, setCart] = useState([]);
 
+    const [cart, setCart] = useState([]);
     // Add judge
     const handleAddJudges = (person) => {
         const newCart = [...cart, person];
@@ -20,6 +20,7 @@ const Shop = () => {
     }, [])
     return (
         <div>
+
             {/* Card div */}
             <div className="row m-3">
                 <div className="col-md-9">
@@ -44,6 +45,8 @@ const Shop = () => {
                     </Cart>
                 </div>
             </div>
+
+            {/* Footer */}
             <Footer></Footer>
         </div >
 

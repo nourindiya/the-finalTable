@@ -21,9 +21,7 @@ const Person = (props) => {
                             {/* Buttton */}
                             <button className="btn"
                                 onClick={() => props.handleAddJudges(props.person)} >
-
                                 <i className="fas fa-cart-plus"></i>
-
                                 Add to Cart</button>
                         </div>
                     </div>
