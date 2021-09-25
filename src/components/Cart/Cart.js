@@ -9,10 +9,10 @@ const Cart = (props) => {
 
     return (
         <div className="cart">
-            <h2 className="mt-2 text-center"><i class="fas fa-user-friends"></i> Judge Added: {cart.length}</h2>
+            <h2 className="mt-2 text-center"><i className="fas fa-user-friends"></i> Judge Added: {cart.length}</h2>
             <h4 className="text-center">Amount: $ {total}</h4>
-            < ul>
-                <h2 className="fw-normal text-center">Judges Name</h2>
+            < ul className='names'>
+                <h2 className="fw-normal text-center rounded-lg">Judges Name :</h2>
                 {
 
                     cart.map(person => <li>{person.name}</li>)

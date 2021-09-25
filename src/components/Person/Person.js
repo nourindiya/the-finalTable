@@ -4,8 +4,8 @@ import "./Person.css"
 const Person = (props) => {
     const { name, img, age, salary, nationality, occupation } = props.person || {};
     return (
-        <div classNameName="col-md-4 g-2">
-            <div className="card mb-3 mt-3 h-80" style={{ "max-width": "540px" }}>
+        <div className="col-md-4 g-2">
+            <div className="card mb-3 mt-3 h-80" >
                 <div className="col g-0">
                     <div className="col">
                         <img src={img} className="img-fluid rounded-start" alt="..." />
@@ -21,7 +21,9 @@ const Person = (props) => {
                             {/* Buttton */}
                             <button className="btn"
                                 onClick={() => props.handleAddJudges(props.person)} >
+
                                 <i className="fas fa-cart-plus"></i>
+
                                 Add to Cart</button>
                         </div>
                     </div>

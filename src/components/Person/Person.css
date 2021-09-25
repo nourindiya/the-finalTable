@@ -1,7 +1,9 @@
 .btn{
     border :1px solid rgb(231, 222, 222);
-    color: blanchedalmond;
+    color: rgb(243, 241, 237);
+    background: rgb(66, 64, 64);
 }
+
 .img-fluid{
     height:250px;
     width: 100%;
