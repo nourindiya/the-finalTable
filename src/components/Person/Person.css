@@ -1,0 +1,22 @@
+.btn{
+    border :1px solid rgb(231, 222, 222);
+    color: blanchedalmond;
+}
+.img-fluid{
+    height:250px;
+    width: 100%;
+}
+.card-body{
+    height: 300px;
+    text-align: center;
+}
+
+.card {
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.far{
+    color: blanchedalmond;
+}

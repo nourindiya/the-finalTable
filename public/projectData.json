@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Gordon Ramsay",
+        "occupation": "Chef",
+        "age": 76,
+        "img": "https://www.thehandbook.com/cdn-cgi/image/width=300,height=300,fit=cover,q=85/https://files.thehandbook.com/uploads/2014/10/Gordon-Ramsay.jpg",
+        "nationality": "American",
+        "salary": 34532
+    },
+    {
+        "name": "Anne-Sophie ",
+        "occupation": "French Chef",
+        "age": 52,
+        "img": "https://image.shutterstock.com/image-photo/paris-mar-30-2018-annesophie-260nw-1087536860.jpg",
+        "nationality": "Frech",
+        "salary": 23532
+    },
+    {
+        "name": "Aziz Ansari",
+        "occupation": "American actor",
+        "age": 38,
+        "img": "https://www.hollywoodreporter.com/wp-content/uploads/2021/04/Aziz-Ansari-Getty-H-2021-1619227327.jpg",
+        "nationality": "American",
+        "salary": 46284
+    },
+    {
+        "name": "Jeffree Star",
+        "occupation": "American YouTuber",
+        "age": 35,
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jeffree-square-1545165200.jpg?crop=1xw:1xh;center,top&resize=480:*",
+        "nationality": "American",
+        "salary": 346284
+    },
+    {
+        "name": "Anya Taylor",
+        "occupation": "Actress",
+        "age": 25,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSes3pXcE14MXS6je5ZxiPtrg9ZiEgMXlSgdA&usqp=CAU",
+        "nationality": "American",
+        "salary": 896284
+    },
+    {
+        "name": "Justin Bieber",
+        "occupation": "Canadian singer",
+        "age": 27,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhf8oDhvaOTu7fQWTFEw6-8pNWLkbg1fyOQ&usqp=CAU",
+        "nationality": "Canadian",
+        "salary": 656284
+    },
+    {
+        "name": "MrBeast",
+        "occupation": "American YouTuber",
+        "age": 23,
+        "img": "https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e.jpg",
+        "nationality": "American",
+        "salary": 46284
+    },
+    {
+        "name": "Jennifer Aniston",
+        "occupation": "American actress",
+        "age": 52,
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jennifer-aniston-attends-the-2017-vanity-fair-oscar-party-news-photo-1592847950.jpg?crop=0.927xw:0.686xh;0.0510xw,0.0164xh&resize=640:*",
+        "nationality": "American",
+        "salary": 106284
+    },
+    {
+        "name": "Clare Smyth",
+        "occupation": "American actor",
+        "age": 43,
+        "img": "https://i1.wp.com/lvbmag.wpcomstaging.com/wp-content/uploads/2019/01/Clare-Smyth-%C2%A9-Lavenders-Blue-Stuart-Blakley.jpg?ssl=1",
+        "nationality": "American",
+        "salary": 66284
+    }
+]
